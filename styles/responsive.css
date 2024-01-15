@@ -1,0 +1,12 @@
+@media screen and (max-width: 667px) {
+    .nav-section{
+        flex-direction: column;
+    }
+    .items-container{
+        flex-direction: column;
+    }
+    .nav-container{
+        margin-left: 50px;
+        gap: 20px;
+    }
+}
